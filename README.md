@@ -19,5 +19,5 @@ React.js
 Python
 Flask 
 MySql (for Databases)
-<h3>Doployment:</h3>
+<h3>Deployment:</h3>
 Docker
