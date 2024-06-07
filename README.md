@@ -5,7 +5,7 @@ This repository contains the source code for the ToDo project, developed as part
 
 <h2>Features:</h2>
 Todo Lists: Users can organize tasks into different todo lists.
-Responsive Design: The application is responsive and works well on desktop and mobile devices.
+Responsive Design: The application is responsive and works well on desktop and mobile devices./n
 Database Integration: The application is integrated with a database to store user accounts, tasks, and todo lists.
 
 
